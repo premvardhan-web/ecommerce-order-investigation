@@ -1,0 +1,13 @@
+customer_id,customer_name,city,signup_date,customer_status
+C101,Rahul Sharma,Hyderabad,2025-11-10,Active
+C102,Priya Reddy,Mumbai,2025-12-05,Active
+C103,Arjun Mehta,Bengaluru,2025-12-18,Inactive
+C104,Sneha Rao,Hyderabad,2026-01-07,Active
+C105,Vikram Singh,Delhi,2026-01-15,Active
+C106,Neha Kapoor,,2026-01-22,Inactive
+C107,Aman Verma,Mumbai,2026-02-02,Active
+C108,Kavya Nair,Bengaluru,2026-02-11,Active
+C109,Ananya Gupta,Hyderabad,2026-02-20,Inactive
+C110,Akhil Kumar,Chennai,2026-03-01,Active
+C111,Rohan Das,Delhi,2026-03-10,Active
+C112,Tanvi Shah,,2026-03-18,Active

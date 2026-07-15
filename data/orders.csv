@@ -1,0 +1,21 @@
+order_id,customer_id,order_value,order_status,payment_method,delivery_days
+O1001,C101,15000,Delivered,Credit Card,3
+O1002,C102,7500,Cancelled,UPI,
+O1003,C103,22000,Delivered,Credit Card,7
+O1004,C104,4500,Delivered,COD,5
+O1005,C105,35000,Processing,UPI,
+O1006,C101,12500,Delivered,UPI,4
+O1007,C107,3000,Cancelled,COD,
+O1008,C108,18000,Delivered,Credit Card,8
+O1009,C109,9500,Delivered,UPI,6
+O1010,C110,42000,Processing,Credit Card,
+O1011,C102,6500,Delivered,COD,3
+O1012,C111,28000,Delivered,UPI,9
+O1013,C112,11000,Cancelled,Credit Card,
+O1014,C105,55000,Delivered,Credit Card,2
+O1015,C108,16000,Delivered,UPI,5
+O1016,C103,8000,Cancelled,COD,
+O1017,C106,24000,Delivered,UPI,10
+O1018,C109,13500,Processing,Credit Card,
+O1019,C110,5000,Delivered,COD,4
+O1020,C111,32000,Delivered,Credit Card,6

@@ -68,7 +68,7 @@ Contains product category, price, and stock availability.
 
 ---
 
-# ❓ Business Questions Solved
+# Business Questions Solved
 
 Examples include:
 
@@ -82,7 +82,7 @@ Examples include:
 
 ---
 
-# 📈 Key Business Insights
+#  Key Business Insights
 
 * High-value orders require stronger delivery monitoring.
 * Cancelled orders should be investigated to reduce revenue loss.
@@ -91,7 +91,7 @@ Examples include:
 
 ---
 
-# 💡 Recommendations
+#  Recommendations
 
 * Prioritize fulfillment of high-value orders.
 * Build dashboards to monitor cancellations.
